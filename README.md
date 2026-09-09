@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Matthew (@matthewwalker4838) 👋
 
-<!--
-**matthewwalker4838/matthewwalker4838** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent software developer based in Paris. I spend most of my time around systems programming, memory safety, and low-level runtimes.
 
-Here are some ideas to get you started:
+### What I'm working on
+- 🦀 Building minimal, zero-allocation Rust libraries and CLI tools
+- 🕸️ Embedding WebAssembly runtimes (Wasmtime, Wasmer) inside C and Rust services
+- 🐧 Exploring eBPF observability tooling on Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Primary Tools
+- **Languages:** Rust, C, POSIX Shell
+- **Core:** Linux, Git, GDB, WebAssembly, Make/Cargo
+
+### Connect
+- Email: `matthew.walker@pm.me`
+- Matrix: `@mwalker:matrix.org`
+- Open to chats on systems design, allocator internals, or good coffee in Paris.
